@@ -7,6 +7,8 @@
  */
 print("This is a test")
 
+print("This is my second change")
+
 /*:
  Create a `let` constant called `falcon` and assign it to an instance of `Spaceship`. After initialization, set `name` to "Falcon".
  */
